@@ -1,1 +1,1 @@
-# vic-temp
+# A seasonal ARIMA model to predict monthly average temperatures in Victoria BC
